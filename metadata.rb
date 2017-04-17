@@ -1,6 +1,6 @@
 name 'ubuntu-hard'
-maintainer 'The Authors'
-maintainer_email 'you@example.com'
+maintainer 'gellis'
+maintainer_email 'gellis@infiniticg.com'
 license 'All Rights Reserved'
 description 'Installs/Configures ubuntu-hard'
 long_description 'Installs/Configures ubuntu-hard'
